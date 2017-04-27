@@ -1,3 +1,12 @@
+/*!
+ * Social Share Count v1.0
+ *
+ * Licensed GPLv3 for open source use
+ * or Share Count Commercial License for commercial use
+ *
+ * Copyright 2016 Dat Nguyen
+ */
+
 (function($) {
     $.fn.shareCount = function(options) {
         var settings = $.extend({
